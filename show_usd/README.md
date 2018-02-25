@@ -1,5 +1,5 @@
 # Show USD Prices
-Converts Fee and Total price to current USD prices
+Converts Fee and Total price to current USD prices. Uses [https://coinmarketcap.com/](https://coinmarketcap.com/) for prices
 
 # Install on Google Chrome
 1. Install https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija?utm_source=chrome-app-launcher-info-dialog

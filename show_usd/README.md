@@ -1,5 +1,5 @@
 # Show USD Prices
-Converts Fee and Total price to current USD prices. Uses [https://coinmarketcap.com/](https://coinmarketcap.com/) for prices
+Converts Fee and Total price to current USD prices. Uses [https://www.cryptocompare.com/](https://www.cryptocompare.com/) for prices
 
 
 ![Show USD](../screenshots/show_usd.png)
